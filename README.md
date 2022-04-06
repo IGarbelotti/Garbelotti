@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IGarbelotti
 - 👀 I’m interested in learning all that is possible about Devs community
-- 🌱 I’m currently learning about HTML and CSS
+- 🌱 I’m currently learning about HTML,CSS and JavaScript
 - 💞️ I’m looking to collaborate on projects that will help me get used to the codes and the entire structure of HTML and CSS.
 - 📫 How to reach me: @isa.garbe on instagram
 
