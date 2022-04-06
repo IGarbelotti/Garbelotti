@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IGarbelotti
+- 👋 Hi, I’m @Garbelotti
 - 👀 I’m interested in learning all that is possible about Devs community
 - 🌱 I’m currently learning about HTML,CSS and JavaScript
 - 💞️ I’m looking to collaborate on projects that will help me get used to the codes and the entire structure of HTML and CSS.
